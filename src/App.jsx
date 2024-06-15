@@ -8,7 +8,7 @@ function App() {
   return (
     <ThemeProvider>
       <div className="app">
-        <View></View>
+        {/* <View></View> */}
         <ThemeToggler />
       </div>
     </ThemeProvider>

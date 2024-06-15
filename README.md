@@ -81,3 +81,6 @@ Follow these instructions to set up and run the project on your local machine.
 - **ThemeProvider**: Context provider to manage the theme state.
 - **ThemeToggler**: Component to toggle between light and dark themes.
 
+# Acknowledgements
+
+[Toggle Button](https://uiverse.io/JkHuger/old-falcon-20)
